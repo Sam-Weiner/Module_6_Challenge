@@ -1,4 +1,4 @@
-# Module_6_Challenge
+# San Francisco Housing Market Analysis
 Data Visualization with PyViz
 
 This project was designed to be an analysis of the SF real estate market to determine if there were opportunities for those looking to buy property and rent them out.  
